@@ -1,1 +1,1 @@
-# fake-news-identifier
+# Fake News Identifier
